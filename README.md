@@ -7,13 +7,13 @@ My name is Alexey Topolnitskiy and I'm a Data Scientist. I'm from Moscow, Russia
 [<img align="left" alt="alexey-topolnitskiy-2b717817b | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/1200px-Linkedin.svg.png" />][linkedin]
 [<img align="left" alt="rockstar__alex | Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Twitter_icon.png" />][twitter]
 [<img align="left" alt="alexeytopolnitskiy | GitHub" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/GitHub_Mark.png/1920px-GitHub_Mark.png" />][github]
+[<img align="left" alt="rockstar_alex | Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1920px-Telegram_2019_Logo.svg.png" />][telegram]
 
 
 <!-- Links to my social media accounts -->
 [1]: https://linkedin.com/in/alexey-topolnitskiy-2b717817b
 [2]: https://twitter.com/rockstar__alex
 [3]: https://github.com/alexeytopolnitskiy
-[4]: alexey.topolnitskiy@gmail.com
 [5]: https://t.me/rockstar_alex
 [6]: https://www.facebook.com/alexey.topolnitskiy
 [7]: https://vk.com/alexey_topolnitskiy
@@ -21,7 +21,7 @@ My name is Alexey Topolnitskiy and I'm a Data Scientist. I'm from Moscow, Russia
 [linkedin]: https://linkedin.com/in/alexey-topolnitskiy-2b717817b
 [twitter]: https://twitter.com/rockstar__alex
 [github]: https://github.com/alexeytopolnitskiy
-
+[telegram]: https://t.me/rockstar_alex
 
 
 <!--
