@@ -17,14 +17,7 @@ My name is Alexey Topolnitskiy and I'm a Data Scientist. I'm from Moscow, Russia
 [6]: https://www.facebook.com/alexey.topolnitskiy
 [7]: https://vk.com/alexey_topolnitskiy
 
-<!-- icons for social media links -->
-[1.1]: https://i.imgur.com/OQUXwNp.jpeg 
-[2.1]: https://i.imgur.com/LS08Auh.png
-[3.1]: https://i.imgur.com/J6LeoUb.png
-[4.1]: https://i.imgur.com/LfXxQHq.jpeg
-[5.1]: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png
-[6.1]: https://i.imgur.com/nIiaG46.png
-[7.1]: https://i.imgur.com/N5WoDLB.png
+[linkedin]: https://linkedin.com/in/alexey-topolnitskiy-2b717817b
 
 
 <!--
