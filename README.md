@@ -5,7 +5,7 @@ My name is Alexey Topolnitskiy and I'm a Data Scientist. I'm from Moscow, Russia
 ### Contact with me
 
 [<img align="left" alt="alexey-topolnitskiy-2b717817b | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/1200px-Linkedin.svg.png" />][linkedin]
-[<img align="left" alt="rockstar__alex | Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Twitter_icon.png" />][twitter]
+[<img align="left" alt="rockstar__alex | Twitter" width="22px" src="https://i.imgur.com/gjxesPV.png" />][twitter]
 [<img align="left" alt="rockstar_alex | Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1920px-Telegram_2019_Logo.svg.png" />][telegram]
 [<img align="left" alt="alexey.topolnitskiy | Facebook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Icon-facebook.png" />][facebook]
 [<img align="left" alt="alexey_topolnitskiy | Vk" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VK.com-logo.svg/1920px-VK.com-logo.svg.png" />][vk]
