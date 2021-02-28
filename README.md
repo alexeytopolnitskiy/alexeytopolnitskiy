@@ -1,9 +1,11 @@
-# Hello everyone 👋
+## Hello everyone 👋
 
 My name is Alexey Topolnitskiy and I'm a Data Scientist. I'm from Moscow, Russia, and currently working @ Skoltech Center for Hydrocarbon Recovery where I apply ML/DL/AI algorithms to help oil and gas companies enhance their income.
 
-<p align="center">
-  Contact with me: [![LinkdeIn][1.1]][1]
+### Contact with me
+
+[<img align="left" alt="alexey-topolnitskiy-2b717817b | LinkedIn" width"22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/1200px-Linkedin.svg.png" />][linkedin]
+
 
 
 <!-- Links to my social media accounts -->
