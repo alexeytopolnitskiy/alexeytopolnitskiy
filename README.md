@@ -5,6 +5,7 @@ My name is Alexey Topolnitskiy and I'm a Data Scientist. I'm from Moscow, Russia
 ### Contact with me
 
 [<img align="left" alt="alexey-topolnitskiy-2b717817b | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/1200px-Linkedin.svg.png" />][linkedin]
+[<img align="left" alt="rockstar__alex | Twitter" width="22px" src="http://i.imgur.com/wWzX9uB.png" />][twitter]
 
 
 
@@ -18,6 +19,8 @@ My name is Alexey Topolnitskiy and I'm a Data Scientist. I'm from Moscow, Russia
 [7]: https://vk.com/alexey_topolnitskiy
 
 [linkedin]: https://linkedin.com/in/alexey-topolnitskiy-2b717817b
+[twitter]: https://twitter.com/rockstar__alex
+
 
 
 <!--
