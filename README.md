@@ -11,6 +11,11 @@ My name is Alexey Topolnitskiy and I'm a Data Scientist. I'm from Moscow, Russia
 [<img align="left" alt="alexey_topolnitskiy | Vk" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VK.com-logo.svg/1920px-VK.com-logo.svg.png" />][vk]
 
 
+[linkedin]: https://linkedin.com/in/alexey-topolnitskiy-2b717817b
+[twitter]: https://twitter.com/rockstar__alex
+[telegram]: https://t.me/rockstar_alex
+[facebook]: https://www.facebook.com/alexey.topolnitskiy
+[vk]: https://vk.com/alexey_topolnitskiy
 
 
 <!--
