@@ -22,6 +22,9 @@ My name is Alexey Topolnitskiy and I'm a Data Scientist. I'm from Moscow, Russia
 ### Hard skills
 
 <img align="left" alt="Python" title="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />
+<img align="left" alt="SQL" title="SQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" />
+
+
 
 
 <!--
