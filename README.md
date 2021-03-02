@@ -17,6 +17,7 @@ My name is Alexey Topolnitskiy and I'm a Data Scientist. I'm from Moscow, Russia
 [facebook]: https://www.facebook.com/alexey.topolnitskiy
 [vk]: https://vk.com/alexey_topolnitskiy
 
+\\
 
 ### Hard skills
 
