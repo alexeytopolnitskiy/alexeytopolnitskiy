@@ -18,6 +18,11 @@ My name is Alexey Topolnitskiy and I'm a Data Scientist. I'm from Moscow, Russia
 [vk]: https://vk.com/alexey_topolnitskiy
 
 
+### Hard skills
+
+<img align="left" alt="Python" title="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />
+
+
 <!--
 **alexeytopolnitskiy/alexeytopolnitskiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
