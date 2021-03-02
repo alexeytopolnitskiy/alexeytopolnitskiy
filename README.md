@@ -27,8 +27,10 @@ My name is Alexey Topolnitskiy and I'm a Data Scientist. I'm from Moscow, Russia
 <img align="left" alt="PyTorch" title="PyTorch" width="26px" src="https://seeklogo.com/images/P/pytorch-logo-84F95D0AF5-seeklogo.com.png" />
 <img align="left" alt="PosgtrSQL" title="PosgtrSQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1920px-Postgresql_elephant.svg.png" />
 <img align="left" alt="VSCode" title="VSCode" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" />
+<img align="left" alt="Docker" title="Docker" width="26px" src="https://cdn.worldvectorlogo.com/logos/docker.svg" />
+<img align="left" alt="Linux" title="Linux" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" />                                                                                                                                                
 <img align="left" alt="OpenCV" title="OpenCV" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" />
-<img align="left" alt="Sklearn" title="Sklearn" width="26px" src="https://neurohive.io/wp-content/uploads/2019/06/1200px-Scikit_learn_logo_small.svg.png" />
+<img align="left" alt="Sklearn" title="Sklearn" width="60px" src="https://neurohive.io/wp-content/uploads/2019/06/1200px-Scikit_learn_logo_small.svg.png" />
 <img align="left" alt="Numpy" title="Numpy" width="26px" src="https://cdn.worldvectorlogo.com/logos/numpy.svg" />
 <img align="left" alt="Pandas" title="Pandas" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/800px-Pandas_mark.svg.png" />
 
