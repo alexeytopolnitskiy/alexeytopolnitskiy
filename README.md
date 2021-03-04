@@ -44,6 +44,13 @@ My name is Alexey Topolnitskiy and I'm a Data Scientist. I'm from Moscow, Russia
 
 * June 2019 - July 2019. Data Scientist Intern @ [Digital Petroleum](https://petroleum.digital). Moscow
 
+<br />
+
+### Education
+
+* MSc, Skolkovo Institute of Science and Technology. Petroleum Engineering, Data Science and AI in Petroleum Industry. Moscow
+
+
 <!--
 **alexeytopolnitskiy/alexeytopolnitskiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
