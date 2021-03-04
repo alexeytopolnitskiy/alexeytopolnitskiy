@@ -34,6 +34,7 @@ My name is Alexey Topolnitskiy and I'm a Data Scientist. I'm from Moscow, Russia
 <img align="left" alt="Numpy" title="Numpy" width="26px" src="https://cdn.worldvectorlogo.com/logos/numpy.svg" />
 <img align="left" alt="Pandas" title="Pandas" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/800px-Pandas_mark.svg.png" />
 
+
 ### Work experience
 
 Aug. 2020 - ... . AI Research Engineer @ [Skoltech Center for Hydrocarbon Recovery](https://crei.skoltech.ru/schr). Moscow
