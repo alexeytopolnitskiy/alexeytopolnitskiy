@@ -50,6 +50,8 @@ My name is Alexey Topolnitskiy and I'm a Data Scientist. I'm from Moscow, Russia
 
 * MSc, Skolkovo Institute of Science and Technology. Petroleum Engineering, Data Science and AI in Petroleum Industry. Moscow
 
+* BSc, Ufa State Petroleum Technological University. Petroleum Engineering, Transport and Storage of Oil and Gas. Ufa
+
 
 <!--
 **alexeytopolnitskiy/alexeytopolnitskiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
