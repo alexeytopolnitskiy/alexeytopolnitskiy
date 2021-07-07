@@ -38,7 +38,7 @@ My name is Alexey Topolnitskiy and I'm a Data Scientist. I'm from Moscow, Russia
 
 ### Work experience
 
-* May 2021 - July 2021. DevOps Engineer Intern @ [Southbridge](https://southbridge.io). Remotely
+* May 2021 - August 2021. DevOps Engineer Intern @ [Southbridge](https://southbridge.io). Remotely
 
 * Aug. 2020 - ... . AI Research Engineer @ [Skoltech Center for Hydrocarbon Recovery](https://crei.skoltech.ru/schr). Moscow
 
