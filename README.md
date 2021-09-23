@@ -1,6 +1,6 @@
 ## Hello everyone 👋
 
-My name is Alexey Topolnitskiy and I'm a Data Scientist. I'm from Moscow, Russia, and currently working @ Skoltech Center for Hydrocarbon Recovery where I apply ML/DL/AI algorithms to help oil and gas companies enhance their income.
+My name is Alexey Topolnitskiy and I'm a DevOps Engineer and Data Scientist. I'm from Moscow, Russia, and currently working as DevOps Engineer @ waves.exchange where I apply DevOps techniques to maintain infrastructure and speed up development.
 
 ### Contact with me
 
