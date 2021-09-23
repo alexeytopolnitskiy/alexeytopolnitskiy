@@ -38,9 +38,11 @@ My name is Alexey Topolnitskiy and I'm a Data Scientist. I'm from Moscow, Russia
 
 ### Work experience
 
+* Sep. 2021 - ... . DevOps Engineer @ [Waves Exchange](https://waves.exchange). Moscow
+
 * May 2021 - August 2021. DevOps Engineer Intern @ [Southbridge](https://southbridge.io). Remotely
 
-* Aug. 2020 - ... . AI Research Engineer @ [Skoltech Center for Hydrocarbon Recovery](https://crei.skoltech.ru/schr). Moscow
+* Aug. 2020 - July 2021 . AI Research Engineer @ [Skoltech Center for Hydrocarbon Recovery](https://crei.skoltech.ru/schr). Moscow
 
 * March 2020 - May 2020. Data Scientist Intern @ [Aramco Innovations](https://europe.aramco.com/en/creating-value/technology-and-innovation/research-centers/moscow-research-center#). Moscow
 
