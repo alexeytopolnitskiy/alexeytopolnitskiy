@@ -24,21 +24,13 @@ My name is Alexey Topolnitskiy and I'm a DevOps Engineer. I'm from Moscow, Russi
 <img align="left" alt="Linux" title="Linux" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/300px-Tux.svg.png" />
 <img align="left" alt="Kubernetes" title="Kubernetes" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/168px-Kubernetes_logo_without_workmark.svg.png" />
 <img align="left" alt="Docker" title="Docker" width="40px" src="https://cdn.worldvectorlogo.com/logos/docker.svg" />
-
-
+<img align="left" alt="Git" title="Git" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
+<img align="left" alt="Gitlab" title="Gitlab" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstrefakodera.pl%2Fwp-content%2Fuploads%2F2017%2F02%2FGitLab_Logo-1024x946.png&f=1&nofb=1" />
+<img align="left" alt="AWS" title="AWS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/300px-Amazon_Web_Services_Logo.svg.png" />
+<img align="left" alt="SQL" title="SQL" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" />
+<img align="left" alt="PosgtrSQL" title="PosgtrSQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1920px-Postgresql_elephant.svg.png" />
 <img align="left" alt="Python" title="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />
 
-<img align="left" alt="SQL" title="SQL" width=60px" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" />
-<img align="left" alt="Git" title="Git" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
-<img align="left" alt="PyTorch" title="PyTorch" width="26px" src="https://seeklogo.com/images/P/pytorch-logo-84F95D0AF5-seeklogo.com.png" />
-<img align="left" alt="PosgtrSQL" title="PosgtrSQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1920px-Postgresql_elephant.svg.png" />
-<img align="left" alt="VSCode" title="VSCode" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" />
-<img align="left" alt="Docker" title="Docker" width="40px" src="https://cdn.worldvectorlogo.com/logos/docker.svg" />
-<img align="left" alt="Linux" title="Linux" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" />                                                                                                                                                
-<img align="left" alt="OpenCV" title="OpenCV" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" />
-<img align="left" alt="Sklearn" title="Sklearn" width="60px" src="https://neurohive.io/wp-content/uploads/2019/06/1200px-Scikit_learn_logo_small.svg.png" />
-<img align="left" alt="Numpy" title="Numpy" width="26px" src="https://cdn.worldvectorlogo.com/logos/numpy.svg" />
-<img align="left" alt="Pandas" title="Pandas" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/800px-Pandas_mark.svg.png" />
 
 <br />
 
