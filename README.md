@@ -19,9 +19,15 @@ My name is Alexey Topolnitskiy and I'm a DevOps Engineer. I'm from Moscow, Russi
 
 <br />
 
-### Hard skills
+### Skills
+
+<img align="left" alt="Linux" title="Linux" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/300px-Tux.svg.png" />
+<img align="left" alt="Kubernetes" title="Kubernetes" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/168px-Kubernetes_logo_without_workmark.svg.png" />
+<img align="left" alt="Docker" title="Docker" width="40px" src="https://cdn.worldvectorlogo.com/logos/docker.svg" />
+
 
 <img align="left" alt="Python" title="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />
+
 <img align="left" alt="SQL" title="SQL" width=60px" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" />
 <img align="left" alt="Git" title="Git" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
 <img align="left" alt="PyTorch" title="PyTorch" width="26px" src="https://seeklogo.com/images/P/pytorch-logo-84F95D0AF5-seeklogo.com.png" />
@@ -38,7 +44,7 @@ My name is Alexey Topolnitskiy and I'm a DevOps Engineer. I'm from Moscow, Russi
 
 ### Work experience
 
-* Sep. 2021 - ... . DevOps Engineer @ [Waves Labes](https://waveslabs.com/). Moscow
+* Sep. 2021 - ... . DevOps Engineer @ [Waves Labs](https://waveslabs.com/). Moscow
 
 * May 2021 - August 2021. DevOps Engineer Intern @ [Southbridge](https://southbridge.io). Remotely
 
