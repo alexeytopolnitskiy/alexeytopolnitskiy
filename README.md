@@ -1,6 +1,6 @@
 ## Hello everyone 👋
 
-My name is Alexey Topolnitskiy and I'm a DevOps Engineer and Data Scientist. I'm from Moscow, Russia, and currently working as DevOps Engineer @ waves.exchange where I apply DevOps techniques to maintain infrastructure and speed up development.
+My name is Alexey Topolnitskiy and I'm a DevOps Engineer. I'm from Moscow, Russia, and currently working as DevOps Engineer @ Waves Labs where I apply DevOps techniques to maintain infrastructure and speed up development.
 
 ### Contact with me
 
@@ -38,7 +38,7 @@ My name is Alexey Topolnitskiy and I'm a DevOps Engineer and Data Scientist. I'm
 
 ### Work experience
 
-* Sep. 2021 - ... . DevOps Engineer @ [Waves Exchange](https://waves.exchange). Moscow
+* Sep. 2021 - ... . DevOps Engineer @ [Waves Labes](https://waveslabs.com/). Moscow
 
 * May 2021 - August 2021. DevOps Engineer Intern @ [Southbridge](https://southbridge.io). Remotely
 
