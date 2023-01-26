@@ -35,8 +35,9 @@ My name is Alexey Topolnitskiy and I'm a DevOps Engineer. I'm from Moscow, Russi
 <br />
 
 ### Work experience
+* Jan. 2023 - ... . DevIos Engineer @ [Truv](https://truv.com/). Remotely
 
-* Sep. 2021 - ... . DevOps Engineer @ [Waves Labs](https://waveslabs.com/). Moscow | UAE
+* Sep. 2021 - Jan. 2023. DevOps Engineer @ [Waves Labs](https://waveslabs.com/). Moscow | UAE
 
 * May 2021 - August 2021. DevOps Engineer Intern @ [Southbridge](https://southbridge.io). Remotely
 
