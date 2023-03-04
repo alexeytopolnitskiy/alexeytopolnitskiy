@@ -1,6 +1,6 @@
 ## Hello everyone 👋
 
-My name is Alexey Topolnitskiy and I'm a DevOps Engineer. I'm from Moscow, Russia, and currently working as DevOps Engineer @ Waves Labs where I apply DevOps techniques to maintain infrastructure and speed up development.
+My name is Alexey Topolnitskiy and I'm a DevOps Engineer. I'm from Russia and currently working as a DevOps Engineer @ Truv where I apply DevOps techniques to maintain infrastructure and speed up development.
 
 ### Contact with me
 
